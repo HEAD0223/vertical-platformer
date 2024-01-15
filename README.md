@@ -1,8 +1,8 @@
 # Vertical Platformer Game
 
 ![Vertical Platformer Game](https://img.shields.io/badge/Game-Vertical_Platformer-brightgreen)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/22771b36-ef22-41fa-aafe-255f095d005a/deploy-status)](https://app.netlify.com/sites/multiroom-platform/deploys)
-[![Playable on Chrome](https://img.shields.io/badge/Playable%20on-Chrome-informational?logo=google-chrome)](https://multiroom-platform.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3ec8d044-a8bc-460b-8c3f-d5ccae01753c/deploy-status)](https://app.netlify.com/sites/platformer-vertical/deploys)
+[![Playable on Chrome](https://img.shields.io/badge/Playable%20on-Chrome-informational?logo=google-chrome)](https://platformer-vertical.netlify.app/)
 
 This web application is designed for a multi-room platformer game using HTML5/Canvas. I created and implemented features such as collisions, movement, gravity, a following camera, a tiled map system. Players navigate using arrow keys, with the top arrow serving as a jump, ensuring an immersive and seamless gaming experience.
 
